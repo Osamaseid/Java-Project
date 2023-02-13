@@ -1,3 +1,10 @@
+# Java-Project About Property Management System
+GROUP MEMBERS NAME      ID
+OSAMA SEID             RU2911/13
+ABDULHAFIZ MOHAMMED    RU0206/13
+SUMEYA ABESHA          RU0020/13
+SOFIA ALEMU            RU3049/13
+GATBEL GATLUAK         RU2017/13
 import java.text.BreakIterator;
 import java.util.Scanner;
 
