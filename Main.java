@@ -4,7 +4,7 @@
                          *number of items that are sold
                          *number of item that are unsold
                          *about the price of each item
-                         *and it have password to secure the system and this help the owner of this system to manage and know how items are sold. 
+                         *& it have password to secure the system and this help the owner of this system to manage and know how items are sold. 
                         
 
                                      GROUP MEMBERS NAME      ID
